@@ -1,1 +1,1 @@
-# Typescript-Totorial
+# Typescript-Tutorial
